@@ -1,0 +1,14 @@
+build*/
+*.pro.user*
+.qmake.stash
+Makefile*
+debug/
+release/
+ui_*.h
+moc_*
+qrc_*
+*.o
+*.exe
+*.sqlite
+historiques.txt
+qrcode.svg
